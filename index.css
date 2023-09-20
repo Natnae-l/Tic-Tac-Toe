@@ -109,7 +109,7 @@ div {
     z-index: 1;
     font-family: popins, 'Courier New', Courier, monospace;
 }
-@media (max-width: 2400px) {
+@media (max-width: 1400px) {
     .box {
         width: 90%;
     }
